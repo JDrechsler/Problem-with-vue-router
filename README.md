@@ -1,21 +1,8 @@
-# Quasar App
+# Problem-with-vue-router
 
-> A Quasar project with full support for typescript.
-For an example of a regular VueJs Project with typescript, see: 
-https://github.com/paulvanbladel/vue-webpack-ts-simple
+SPA with Vue, TS, quasar, vue-router - lazy loading is not working
 
-## Build Setup
+->
 
-``` bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:8080
-$ quasar dev
-
-# build for production with minification
-$ quasar build
-
-# lint code
-$ quasar lint
-```
+[Vue warn]: Failed to mount component: template or render function not defined. 
+(found in <Anonymous> - use the "name" option for better debugging messages.)
